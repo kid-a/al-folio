@@ -2,6 +2,7 @@
 layout: post
 date: 2019-05-09 07:59:00-0400
 inline: true
+related_posts: false
 ---
 
 :trophy: My students Kevin O'Brien, Cory Brolliar, Zach Boyer, and Ben Mart were finalists
